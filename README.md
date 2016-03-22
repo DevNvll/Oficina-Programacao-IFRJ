@@ -1,7 +1,7 @@
 # Oficina de Programação IFRJ
 Exercícios da oficina de programação do IFRJ CaC - 2016.1
 
-Exercícios resolvidos tanto em C++ tanto em Python.
+Resolvidos tanto em C++ quanto em Python.
 
 ## Downloads
 
