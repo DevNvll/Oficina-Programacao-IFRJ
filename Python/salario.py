@@ -19,4 +19,5 @@ else:
 print("Nome do funcionário: " + str(nome))
 print("Salário antes do aumento: R$" + str(salarioB))
 print("Valor do aumento: R$" + str(aumento))
+print("Porcentual do aumento: " + str(int(salarioB/aumento)) + "%")
 print("Salário bruto novo: R$" + str(salarioBNovo))
